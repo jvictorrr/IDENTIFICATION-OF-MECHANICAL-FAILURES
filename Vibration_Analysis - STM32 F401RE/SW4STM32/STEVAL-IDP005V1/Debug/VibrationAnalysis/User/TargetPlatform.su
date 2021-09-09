@@ -1,0 +1,6 @@
+TargetPlatform.c:80:6:InitTargetPlatform	16	static
+TargetPlatform.c:128:13:ISM330DLC_GPIO_Init	40	static
+TargetPlatform.c:183:13:Init_MEM1_Sensors	8	static
+TargetPlatform.c:211:6:LedOnTargetPlatform	8	static
+TargetPlatform.c:222:6:LedOffTargetPlatform	8	static
+TargetPlatform.c:232:6:LedToggleTargetPlatform	8	static

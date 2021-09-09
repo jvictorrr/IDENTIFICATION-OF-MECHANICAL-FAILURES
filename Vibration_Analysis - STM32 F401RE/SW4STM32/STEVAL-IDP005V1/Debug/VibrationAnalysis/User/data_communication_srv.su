@@ -1,0 +1,9 @@
+data_communication_srv.c:148:6:TerminalScreenAppInfo	32	static
+data_communication_srv.c:212:9:SetVibrationParam	16	static
+data_communication_srv.c:266:6:SendVibrationResult	8	static
+data_communication_srv.c:292:13:UartGetVibrationParamValues	24	static
+data_communication_srv.c:465:13:FFT_Result_DataSend	48	static
+data_communication_srv.c:496:13:FFT_Array_DataSend	336	static
+data_communication_srv.c:546:13:SensorPk_DataSend	40	static
+data_communication_srv.c:568:6:TimeDomain_UartDataSend	24	static
+data_communication_srv.c:657:6:HAL_UART_RxCpltCallback	24	static,ignoring_inline_asm

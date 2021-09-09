@@ -1,0 +1,14 @@
+MotionSP_Manager.c:105:6:MotionSP_SetDefaultVibrationParam	4	static
+MotionSP_Manager.c:129:6:MotionSP_VibrationInit	8	static
+MotionSP_Manager.c:188:9:SetAccelerometerParameters	16	static
+MotionSP_Manager.c:262:6:MotionSP_VibrationAnalysis	32	static
+MotionSP_Manager.c:311:13:AcceleroFifoRead	24	static
+MotionSP_Manager.c:334:13:FillCircBuffFromFifo	48	static
+MotionSP_Manager.c:356:6:FuncOn_DRDY_XL	4	static
+MotionSP_Manager.c:361:6:FuncOn_FifoFull	8	static
+MotionSP_Manager.c:388:16:MotionSP_AccMeasInit	16	static
+MotionSP_Manager.c:433:16:AccOdrMeas	32	static
+MotionSP_Manager.c:490:9:enable_FIFO	8	static
+MotionSP_Manager.c:514:9:disable_FIFO	8	static
+MotionSP_Manager.c:537:9:restart_FIFO	8	static
+MotionSP_Manager.c:560:6:MotionSP_ConfigFifo	16	static

@@ -1,0 +1,10 @@
+idp005.c:92:6:BSP_L6362A_ENDIAG	16	static
+idp005.c:118:10:BSP_GetVersion	4	static
+idp005.c:127:9:BSP_GetTick	8	static
+idp005.c:138:6:BSP_LED_Init	40	static
+idp005.c:163:6:BSP_LED_DeInit	40	static
+idp005.c:180:6:BSP_LED_On	16	static
+idp005.c:191:6:BSP_LED_Off	16	static
+idp005.c:202:6:BSP_LED_Toggle	16	static
+idp005.c:222:6:L6362A_IO_Init	56	static
+idp005.c:264:6:L6362A_IO_DeInit	8	static

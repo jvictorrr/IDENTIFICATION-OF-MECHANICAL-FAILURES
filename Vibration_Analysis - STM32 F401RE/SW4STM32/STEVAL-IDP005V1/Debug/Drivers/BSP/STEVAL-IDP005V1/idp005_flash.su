@@ -1,0 +1,5 @@
+idp005_flash.c:77:16:GetFlashSector	24	static
+idp005_flash.c:146:19:BSP_FLASH_EraseArea	56	static,ignoring_inline_asm
+idp005_flash.c:212:19:BSP_FLASH_WriteArea	40	static,ignoring_inline_asm
+idp005_flash.c:257:19:BSP_FLASH_CheckArea	40	static,ignoring_inline_asm
+idp005_flash.c:302:19:BSP_FLASH_Write	48	static,ignoring_inline_asm
